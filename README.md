@@ -15,14 +15,18 @@
 ---
 
 ## 🛠 Open Source Contributions
-- Committer at [Apache ProjectName](https://github.com/apache/zeppelin)  
-- Active in [Apache Community](https://apache.org)  
+- Committer at [Apache Zeppelin](https://github.com/apache/zeppelin)
+- Active in [Apache Community](https://apache.org)
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ParkGyeongTae&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParkGyeongTae&layout=compact&theme=radical)  
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=ParkGyeongTae&show_icons=true&theme=radical" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParkGyeongTae&layout=compact&theme=radical" /></td>
+  </tr>
+</table>
 
 ---
 
