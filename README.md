@@ -11,6 +11,8 @@
 - 💻 Passionate about **Open Source**, **Distributed Systems**, and **Scalable Architecture**  
 - 🌱 Currently exploring **Cloud Native** and **AI for Mobility**  
 - ✍️ Sharing knowledge through talks, blogs, and community contributions  
+- 📊 **Data Analytics Engineer @ TMAP Mobility (Analytics Team)**  
+   - Previously worked as a **Data Engineer**  
 
 ---
 
